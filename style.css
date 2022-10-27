@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(131, 175, 238) ;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(201, 155, 230);
+}
+
+.note{
+    font-size: 15px;
+    color: azure;
+}
+
+.div1{
+
+    background-color:rgb(196, 122, 236);
+    text-align: center;
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    line-height: 3;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+body{
+    background-image:url("pruple.png") ;
+}
+
+canvas{
+    border: 2px solid black;
+}
